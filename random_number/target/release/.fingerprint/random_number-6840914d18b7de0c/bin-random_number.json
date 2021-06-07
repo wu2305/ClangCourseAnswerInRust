@@ -1,0 +1,1 @@
+{"rustc":14081427873743722821,"features":"[]","target":17950618090390556219,"profile":4339006351771724982,"path":1036222786711178230,"deps":[[7314251443660914635,"rand",false,16160861793634614619]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/random_number-6840914d18b7de0c/dep-bin-random_number"}}],"rustflags":[],"metadata":3475025994629368316,"config":0}
