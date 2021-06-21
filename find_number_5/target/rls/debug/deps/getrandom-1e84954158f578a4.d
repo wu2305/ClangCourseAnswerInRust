@@ -1,0 +1,11 @@
+/home/wu2305/ClangCourseAnswerInRust/find_number_5/target/rls/debug/deps/getrandom-1e84954158f578a4.rmeta: /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/lib.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error_impls.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util_libc.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/use_file.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/linux_android.rs
+
+/home/wu2305/ClangCourseAnswerInRust/find_number_5/target/rls/debug/deps/getrandom-1e84954158f578a4.d: /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/lib.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error_impls.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util_libc.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/use_file.rs /home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/linux_android.rs
+
+/home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/lib.rs:
+/home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error.rs:
+/home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util.rs:
+/home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/error_impls.rs:
+/home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/util_libc.rs:
+/home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/use_file.rs:
+/home/wu2305/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/getrandom-0.2.3/src/linux_android.rs:
